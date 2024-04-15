@@ -1,2 +1,0 @@
-hello this is atherv, this fie is for git ignore
-this is the second line
